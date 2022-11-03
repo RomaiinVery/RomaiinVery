@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RomaiinVery
+- 👋 Hi, I’m Romain Very, I'm 19.
 - Student at Epitech
 <!---
 RomaiinVery/RomaiinVery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
